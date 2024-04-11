@@ -1,5 +1,6 @@
 
 ####EXERCISE 1 
+#hi its lisa changing your code :)
 
 ###Edited version###
 
@@ -213,4 +214,4 @@ by(sis2$hhinc, sis2$hhincquint, FUN= median)
 sis3 <- na.omit(sis2)
 
 
-
+# Gianni's change
