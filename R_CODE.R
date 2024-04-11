@@ -1,6 +1,6 @@
 
 ####EXERCISE 1 
-#hi its lisa changing your code :)
+#hi its lisa changing your code :) :P
 
 ###Edited version###
 
