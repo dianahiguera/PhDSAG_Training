@@ -213,4 +213,4 @@ by(sis2$hhinc, sis2$hhincquint, FUN= median)
 sis3 <- na.omit(sis2)
 
 
-
+# Gianni's change
