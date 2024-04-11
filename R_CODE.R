@@ -14,7 +14,7 @@ dim(lab2)    #gives n of observations and rows
 head(lab2)
 tail(lab2)
       
-
+# this is an edit
 
 ##Exercise 01: Each person is assigned a study number, which is the SEQN variable. Does the same person appear in more than 1 row of the 
 ## dataset? 
