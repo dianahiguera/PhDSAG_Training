@@ -114,7 +114,7 @@ table(sis2$charity[sis2$charity < 0])
                                 
 #-9 is not a logical value for these variables, so it might refer to refuse to answer or something similar
 
-
+## JS made an edit. 
 
 ## Exercise2: How many persons have missing values for race? For immig? For both race AND immig? 
 
